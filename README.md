@@ -26,4 +26,15 @@ Michael welcomes you to the new section.
 
 Understand the issues you may run into when updating Blender
 
+### 3 Generated Textures Are Different
 
+**In this video (objectives)…**
+
+1. Not bound by resolution
+2. Easy to have values higher than 1 and less than 0
+3. Baking them out will return you to those downsides
+
+
+**After watching (learning outcomes)…**
+
+Understand the fundamental differences between baked textures and generated
