@@ -38,3 +38,17 @@ Understand the issues you may run into when updating Blender
 **After watching (learning outcomes)…**
 
 Understand the fundamental differences between baked textures and generated
+
+### 4 Real Displacement Using Textures
+
+**In this video (objectives)…**
+
+1. Explore in detail the displacement modifier.
+2. No Current way of passing through our previously generated textures.
+3. Must have geometry in order to function
+
+
+**After watching (learning outcomes)…**
+
+You will have a much great understanding of the displacement modifier and how to use it.
+
