@@ -13,3 +13,17 @@ In this section we will use the power of mathematics to drive our environment st
 ### 1 Procedural Worlds Introduction
 
 Michael welcomes you to the new section.
+
+### 2 Checking For Updates To Blender
+
+**In this video (objectives)…**
+
+1. Check if there are any changes to 2.8
+2. Understand limitation or version changes and update
+
+**After watching (learning outcomes)…**
+
+
+Understand the issues you may run into when updating Blender
+
+
