@@ -69,3 +69,17 @@ You will understand texture coordinates and how and when to use them.
 
 Michael Explains the importance of Applying transforms with the displacement modifier.
 
+### 7 Procedural Study Spheres
+
+**In this video (objectives)…**
+
+1. Using some basic spheres
+2. Build up a small collection of studies
+3. Use a mixture of generated and baked textures
+
+
+**After watching (learning outcomes)…**
+
+Have a better understanding of what the generated textures look like.
+
+
