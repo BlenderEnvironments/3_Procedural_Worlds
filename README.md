@@ -65,3 +65,7 @@ You will have a much great understanding of the displacement modifier and how to
 You will understand texture coordinates and how and when to use them.
 
 
+### 6 Displacement Quick Tip- Transforms
+
+Michael Explains the importance of Applying transforms with the displacement modifier.
+
