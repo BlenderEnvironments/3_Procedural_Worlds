@@ -67,7 +67,7 @@ You will understand texture coordinates and how and when to use them.
 
 ### 6 Displacement Quick Tip- Transforms
 
-Michael Explains the importance of Applying transforms with the displacement modifier.
+Michael explains the importance of applying transforms with the displacement modifier.
 
 ### 7 Procedural Study Spheres
 
@@ -81,5 +81,19 @@ Michael Explains the importance of Applying transforms with the displacement mod
 **After watching (learning outcomes)…**
 
 Have a better understanding of what the generated textures look like.
+
+
+### 8 Layering Displacements
+
+**In this video (objectives)…**
+
+1. Use The displacement Modifier Several Times to make an interesting object
+2. Understand the Order Of modifiers
+3. Create a detailed object with no modeling
+
+
+**After watching (learning outcomes)…**
+
+You will be able to make more complex and detailed procedural models.
 
 
