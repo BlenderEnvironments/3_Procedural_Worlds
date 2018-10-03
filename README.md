@@ -96,4 +96,15 @@ Have a better understanding of what the generated textures look like.
 
 You will be able to make more complex and detailed procedural models.
 
+### 9 Vertex Groups
+
+**In this video (objectives)…**
+
+1. Create a Vertex group
+2. Use the vertex group to control where displacement occurs
+
+
+**After watching (learning outcomes)…**
+
+You will be able to customise and be specific on how modifiers affect your model
 
