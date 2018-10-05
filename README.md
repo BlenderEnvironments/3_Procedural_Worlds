@@ -108,3 +108,40 @@ You will be able to make more complex and detailed procedural models.
 
 You will be able to customise and be specific on how modifiers affect your model
 
+### 10 Weight Painting
+
+**In this video (objectives)…**
+
+1. Look at an alternative way of assigning vertex groups
+2. Understand the brush tools are the same as with texture painting
+3.
+
+
+**After watching (learning outcomes)…**
+
+You will be able to use weight paint to control the geometry of your models
+
+
+### Smoothing Out Details
+**In this video (objectives)…**
+
+1. Using An Empty For Texture Coordinates
+2.
+3.
+
+
+**After watching (learning outcomes)…**
+
+< What the student will be able to do, space above important >
+
+
+
+### Using An Empty For Texture Coordinates
+
+
+###Weight Painting
+
+###Projecting Textures
+
+
+###Render Time Displacement (Cycles)
