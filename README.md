@@ -133,3 +133,19 @@ You will be able to use weight paint to control the geometry of your models
 
 Use the smooth modifier to lessen jagged geometry without resorting to increase geometry
 
+
+
+### 12 Empties And Their Uses
+
+**In this video (objectives)…**
+
+1. Add Empties to our scene
+2. Use the Empties to Parent or objects to
+3. Use Empties to Control Texture coordinates
+
+
+**After watching (learning outcomes)…**
+
+Create an infinite variety of object using an empty to control your texture coordinates.
+
+
