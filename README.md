@@ -149,3 +149,17 @@ Use the smooth modifier to lessen jagged geometry without resorting to increase 
 Create an infinite variety of object using an empty to control your texture coordinates.
 
 
+### 13 Projecting Textures
+
+**In this video (objectives)…**
+
+1. Texture our models really quickly
+2. Use project to mitigate the UV unwrap process
+
+
+**After watching (learning outcomes)…**
+
+Be able to quickly texture objects using projection rather than UV unwrapping.
+
+
+
