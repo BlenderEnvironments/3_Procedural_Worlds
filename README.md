@@ -187,3 +187,18 @@ Be able to control where an objects origin is
 
 Be able to use a object world position to control our materials
 
+### 16 Node Grouping
+
+**In this video (objectives)…**
+
+1. Learn about node groups
+2. Append a nodegroup into an existing file
+3. Make the node group available to all new news
+
+
+**After watching (learning outcomes)…**
+
+Be able to create node groups and have them available in all future and past Blender Files
+
+
+###Render Time Displacement (Cycles)
