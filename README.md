@@ -174,3 +174,16 @@ Be able to quickly texture objects using projection rather than UV unwrapping.
 Be able to control where an objects origin is 
 
 
+### 15 Material Inputs: Object Info
+
+**In this video (objectives)…**
+
+1. Learn about the Object Info node
+2. Extract information from it so we can use the 
+3. Use the Color Ramp for better visuals
+
+
+**After watching (learning outcomes)…**
+
+Be able to use a object world position to control our materials
+
