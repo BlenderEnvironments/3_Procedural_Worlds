@@ -161,5 +161,16 @@ Create an infinite variety of object using an empty to control your texture coor
 
 Be able to quickly texture objects using projection rather than UV unwrapping.
 
+### 14 Moving An Object's Origin
+
+**In this video (objectives)…**
+
+1. Learn how to move an objects origin
+2. Pick specific parts of an object to use as the origin point.
+
+
+**After watching (learning outcomes)…**
+
+Be able to control where an objects origin is 
 
 
