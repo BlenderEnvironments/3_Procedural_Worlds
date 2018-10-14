@@ -200,5 +200,18 @@ Be able to use a object world position to control our materials
 
 Be able to create node groups and have them available in all future and past Blender Files
 
+### 17 Material Inputs: Texture Coordinate
+
+**In this video (objectives)…**
+
+1. Use the Texture Coordinate Node
+2. Extract values we need from it
+3. Use those values to control Or material properties
+
+
+**After watching (learning outcomes)…**
+
+Be able to use increasing complex node setups to add procedural properties to your materials
+
 
 ###Render Time Displacement (Cycles)
