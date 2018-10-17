@@ -213,5 +213,18 @@ Be able to create node groups and have them available in all future and past Ble
 
 Be able to use increasing complex node setups to add procedural properties to your materials
 
+### 18 Masking With Textures
+
+**In this video (objectives)…**
+
+1. Use a texture to say where something is and where it is not
+2. Look at using is when mixing colours together or mixing shaders together
+3. Generally masks are greyscale images of one value
+
+
+**After watching (learning outcomes)…**
+
+Be able to use a texture to control where something is and where something isn't
+
 
 ###Render Time Displacement (Cycles)
