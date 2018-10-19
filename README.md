@@ -226,5 +226,7 @@ Be able to use increasing complex node setups to add procedural properties to yo
 
 Be able to use a texture to control where something is and where something isn't
 
+### 19 Deciding How to Mix Materials
+
 
 ###Render Time Displacement (Cycles)
