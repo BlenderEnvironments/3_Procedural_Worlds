@@ -228,5 +228,26 @@ Be able to use a texture to control where something is and where something isn't
 
 ### 19 Deciding How to Mix Materials
 
+**In this video (objectives)…**
+
+1. Decide on how to mix material properties together.
+2. Have a detailed look at why we would do it one way an not another.
+
+
+**After watching (learning outcomes)…**
+
+Be able to make conscious decision about how to mix material properties together
+
+### 20 The Mapping Node 
+
+**In this video (objectives)…**
+
+1. Explore the Mapping Node
+2. Use it to control our textures scaling
+3. Look at using it for non uniform texture transforms
+
+**After watching (learning outcomes)…**
+
+Understand the basics of the mapping node to alter texture mapping to a model.
 
 ###Render Time Displacement (Cycles)
