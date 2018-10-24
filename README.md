@@ -238,7 +238,20 @@ Be able to use a texture to control where something is and where something isn't
 
 Be able to make conscious decision about how to mix material properties together
 
-### 20 The Mapping Node 
+### 20 Repeating A Generated Texture
+
+**In this video (objectives)…**
+
+1. Use some maths to repeat or generated texture
+2. Create a more intricate texture setup
+
+
+**After watching (learning outcomes)…**
+
+You will have a deeper knowledge of using maths to control our generated textures
+
+
+### 21 The Mapping Node 
 
 **In this video (objectives)…**
 
