@@ -263,4 +263,8 @@ You will have a deeper knowledge of using maths to control our generated texture
 
 Understand the basics of the mapping node to alter texture mapping to a model.
 
-###Render Time Displacement (Cycles)
+### 22 Finish Off Our Plank
+
+In this lecture we combine everything we have learn over the last few lecture to finish off the plank of wood
+
+
