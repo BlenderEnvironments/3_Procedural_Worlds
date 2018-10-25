@@ -267,4 +267,15 @@ Understand the basics of the mapping node to alter texture mapping to a model.
 
 In this lecture we combine everything we have learn over the last few lecture to finish off the plank of wood
 
+### 23 Render Time Displacement (Cycles)
 
+**In this video (objectives)…**
+
+1. Use an experimental feature of Blender Cycles
+2. Understand it only works in Cycles
+3. Currently you CANNOT export this
+
+
+**After watching (learning outcomes)…**
+
+You will be able to use Cycles' render time displacement.
