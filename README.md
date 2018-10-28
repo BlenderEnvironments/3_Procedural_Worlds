@@ -281,3 +281,11 @@ In this lecture we combine everything we have learn over the last few lecture to
 **After watching (learning outcomes)…**
 
 You will be able to use Cycles' render time displacement.
+
+### 24 Procedural Worlds Wrap Up
+
+Mikey wraps up section 3
+
+
+
+
