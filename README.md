@@ -52,6 +52,8 @@ Understand the fundamental differences between baked textures and generated
 
 You will have a much great understanding of the displacement modifier and how to use it.
 
+(Updated 28/10/2018 to fix recording issues)
+
 ### 5 Displacement Texture Coordinates
 
 **In this video (objectives)…**
